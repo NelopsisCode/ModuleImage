@@ -1,4 +1,4 @@
-#Module Image
+Module Image
 -------------------------------
 # I-Présentation et contexte
 
@@ -26,7 +26,7 @@ Pour compiler sous LINUX, ouvrez un terminal dans le dossier 11801888_11808121_1
 Le makefile va alors s'executer et créer 3 executables:
 
  * affichage: affiche une image de Steve (minecraft) sur laquelle il est possible de zoomer/dezoomer avec les touches G et T.
- * exemple: crée 2 images dans le dossier data/.
+ * exemple: crée 2 images dans le dossier data/. La première.
  * test: lance la fonction testRegression() qui test chaque fonction du module Image.
 
 Pour les lancer il suffit d'utiliser les commandes ./bin/affichage, ./bin/exemple, ./bin/test
